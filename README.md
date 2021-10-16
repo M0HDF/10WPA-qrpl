@@ -1,4 +1,4 @@
-# 10WPA-qrpl
+# M0DHDF build of 10W PA-qrpl
 10W PA QRP labs LTSpice circuit
 
 Physical measuurements
@@ -8,3 +8,5 @@ IRF-510 bias
 
 Built following NA5Y youtube video
 https://www.youtube.com/watch?v=wBiz594O5LA
+
+Angel M0HDF
