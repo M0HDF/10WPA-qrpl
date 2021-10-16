@@ -1,4 +1,4 @@
-# M0DHDF build of 10W PA-qrpl
+# M0HDF build of 10W PA-qrp-labs
 10W PA QRP labs LTSpice circuit
 
 Physical measuurements
