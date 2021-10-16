@@ -1,0 +1,23 @@
+Circuit: * C:\Users\riotoro\Documents\NA5Y amps\ltspice-master\ltspice-master\qlab 10w stage 1.asc
+
+Instance "m:m2:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:m1:2": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Oct 11 23:09:48 2021
+Total elapsed time: 0.138 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 32371
+traniter = 32361
+tranpoints = 12131
+accept = 8356
+rejected = 3775
+matrix size = 27
+fillins = 28
+solver = Normal
+Matrix Compiler1: 5.49 KB object code size  0.7/0.5/[0.3]
+Matrix Compiler2: 3.29 KB object code size  0.3/0.3/[0.2]
+
